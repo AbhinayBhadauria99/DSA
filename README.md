@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/AbhinayBhadauria99/DSA/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
