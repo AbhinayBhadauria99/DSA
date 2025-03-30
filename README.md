@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhinayBhadauria99/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+## String
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
