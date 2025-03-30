@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbhinayBhadauria99/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhinayBhadauria99/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -93,14 +95,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
