@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AbhinayBhadauria99/DSA/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
@@ -46,16 +48,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhinayBhadauria99/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AbhinayBhadauria99/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/AbhinayBhadauria99/DSA/tree/master/3430-count-days-without-meetings) |
@@ -64,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -72,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -133,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
