@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbhinayBhadauria99/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/AbhinayBhadauria99/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhinayBhadauria99/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AbhinayBhadauria99/DSA/tree/master/2478-longest-nice-subarray) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhinayBhadauria99/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
