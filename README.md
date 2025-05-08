@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbhinayBhadauria99/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2058-concatenation-of-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/AbhinayBhadauria99/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
