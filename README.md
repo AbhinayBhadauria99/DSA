@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AbhinayBhadauria99/DSA/tree/master/0014-longest-common-prefix) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 ## Quickselect
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AbhinayBhadauria99/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
