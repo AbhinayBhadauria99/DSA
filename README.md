@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/AbhinayBhadauria99/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
