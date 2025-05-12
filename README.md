@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AbhinayBhadauria99/DSA/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AbhinayBhadauria99/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AbhinayBhadauria99/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
