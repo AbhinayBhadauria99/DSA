@@ -147,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhinayBhadauria99/DSA/tree/master/0014-longest-common-prefix) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
 ## Quickselect
 |  |
 | ------- |
