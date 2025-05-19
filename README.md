@@ -173,13 +173,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
