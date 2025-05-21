@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhinayBhadauria99/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhinayBhadauria99/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -195,7 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhinayBhadauria99/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0226-invert-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
