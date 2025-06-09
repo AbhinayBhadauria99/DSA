@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
+| [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbhinayBhadauria99/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2058-concatenation-of-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2058-concatenation-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbhinayBhadauria99/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/AbhinayBhadauria99/DSA/tree/master/3430-count-days-without-meetings) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
