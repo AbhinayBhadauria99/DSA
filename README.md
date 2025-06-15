@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinayBhadauria99/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/0682-baseball-game) |
 ## Backtracking
 |  |
 | ------- |
