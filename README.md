@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AbhinayBhadauria99/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
+| [1289-day-of-the-week](https://github.com/AbhinayBhadauria99/DSA/tree/master/1289-day-of-the-week) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
