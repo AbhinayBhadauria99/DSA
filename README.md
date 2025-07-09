@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/AbhinayBhadauria99/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/AbhinayBhadauria99/DSA/tree/master/0937-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/0682-baseball-game) |
+| [0937-online-stock-span](https://github.com/AbhinayBhadauria99/DSA/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AbhinayBhadauria99/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AbhinayBhadauria99/DSA/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AbhinayBhadauria99/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
