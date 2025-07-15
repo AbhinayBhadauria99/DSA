@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
+| [3396-valid-word](https://github.com/AbhinayBhadauria99/DSA/tree/master/3396-valid-word) |
 ## Quickselect
 |  |
 | ------- |
