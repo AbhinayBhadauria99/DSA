@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/AbhinayBhadauria99/DSA/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/AbhinayBhadauria99/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
