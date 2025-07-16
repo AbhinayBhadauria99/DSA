@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AbhinayBhadauria99/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhinayBhadauria99/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AbhinayBhadauria99/DSA/tree/master/2478-longest-nice-subarray) |
 ## Counting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AbhinayBhadauria99/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
+| [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 | [2262-solving-questions-with-brainpower](https://github.com/AbhinayBhadauria99/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AbhinayBhadauria99/DSA/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/AbhinayBhadauria99/DSA/tree/master/0257-binary-tree-paths) |
+| [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AbhinayBhadauria99/DSA/tree/master/0204-count-primes) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
