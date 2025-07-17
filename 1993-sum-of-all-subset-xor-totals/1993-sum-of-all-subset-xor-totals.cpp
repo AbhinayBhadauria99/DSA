@@ -1,30 +1,21 @@
 class Solution {
 public:
     int total=0;
-    void helper(vector<vector<int>>& res,int idx,vector<int>& nums,vector<int> temp){
+    void helper(vector<vector<int>>& res,int xaur,int idx,vector<int>& nums){
         if(idx==nums.size()){
-            res.push_back(temp);
+            total+=xaur;
             return;
         }
 
-        temp.push_back(nums[idx]);
-        helper(res,idx+1,nums,temp);
-        temp.pop_back();
-        helper(res,idx+1,nums,temp);
+        helper(res,xaur^nums[idx],idx+1,nums);
+        helper(res,xaur,idx+1,nums);
     }
     int subsetXORSum(vector<int>& nums) {
         vector<vector<int>> res;
         vector<int> temp;
-        helper(res,0,nums,temp);
-        int result=0;
+        int xaur=0;
+        helper(res,xaur,0,nums);
 
-        for(auto it: res){
-            int xaur=0;
-            for(auto it2: it){
-                xaur^=it2;
-            }
-            result+=xaur;
-        }
-        return result;
+        return total;
     }
 };
