@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AbhinayBhadauria99/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/AbhinayBhadauria99/DSA/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
