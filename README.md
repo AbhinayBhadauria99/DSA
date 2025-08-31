@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhinayBhadauria99/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AbhinayBhadauria99/DSA/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/AbhinayBhadauria99/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhinayBhadauria99/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/AbhinayBhadauria99/DSA/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayBhadauria99/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
 | [2478-longest-nice-subarray](https://github.com/AbhinayBhadauria99/DSA/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/AbhinayBhadauria99/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -343,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/AbhinayBhadauria99/DSA/tree/master/0183-customers-who-never-order) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/AbhinayBhadauria99/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/AbhinayBhadauria99/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
