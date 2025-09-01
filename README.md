@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbhinayBhadauria99/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/AbhinayBhadauria99/DSA/tree/master/1304-longest-happy-string) |
 | [1962-single-threaded-cpu](https://github.com/AbhinayBhadauria99/DSA/tree/master/1962-single-threaded-cpu) |
 ## Merge Sort
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
+| [1304-longest-happy-string](https://github.com/AbhinayBhadauria99/DSA/tree/master/1304-longest-happy-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbhinayBhadauria99/DSA/tree/master/0257-binary-tree-paths) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
+| [1304-longest-happy-string](https://github.com/AbhinayBhadauria99/DSA/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/AbhinayBhadauria99/DSA/tree/master/3396-valid-word) |
 ## Quickselect
