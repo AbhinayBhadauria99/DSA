@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AbhinayBhadauria99/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/AbhinayBhadauria99/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AbhinayBhadauria99/DSA/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0189-rotate-array) |
