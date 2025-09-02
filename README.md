@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AbhinayBhadauria99/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 | [2262-solving-questions-with-brainpower](https://github.com/AbhinayBhadauria99/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayBhadauria99/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AbhinayBhadauria99/DSA/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
+| [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 | [2478-longest-nice-subarray](https://github.com/AbhinayBhadauria99/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbhinayBhadauria99/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 ## Linked List
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [1304-longest-happy-string](https://github.com/AbhinayBhadauria99/DSA/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/AbhinayBhadauria99/DSA/tree/master/1894-merge-strings-alternately) |
+| [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 | [3396-valid-word](https://github.com/AbhinayBhadauria99/DSA/tree/master/3396-valid-word) |
 ## Quickselect
 |  |
