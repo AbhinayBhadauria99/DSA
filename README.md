@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/AbhinayBhadauria99/DSA/tree/master/0817-design-hashmap) |
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
+| [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbhinayBhadauria99/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1962-single-threaded-cpu](https://github.com/AbhinayBhadauria99/DSA/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AbhinayBhadauria99/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
+| [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
 | [1962-single-threaded-cpu](https://github.com/AbhinayBhadauria99/DSA/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/AbhinayBhadauria99/DSA/tree/master/3430-count-days-without-meetings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbhinayBhadauria99/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AbhinayBhadauria99/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
+| [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/AbhinayBhadauria99/DSA/tree/master/1304-longest-happy-string) |
 | [1962-single-threaded-cpu](https://github.com/AbhinayBhadauria99/DSA/tree/master/1962-single-threaded-cpu) |
 ## Merge Sort
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhinayBhadauria99/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinayBhadauria99/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
 | [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 ## Linked List
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/0682-baseball-game) |
+| [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
