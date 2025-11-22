@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AbhinayBhadauria99/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1025-divisor-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/1025-divisor-game) |
 | [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 | [2262-solving-questions-with-brainpower](https://github.com/AbhinayBhadauria99/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AbhinayBhadauria99/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/AbhinayBhadauria99/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0264-ugly-number-ii) |
+| [1025-divisor-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/1025-divisor-game) |
 | [1289-day-of-the-week](https://github.com/AbhinayBhadauria99/DSA/tree/master/1289-day-of-the-week) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AbhinayBhadauria99/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -382,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbhinayBhadauria99/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
