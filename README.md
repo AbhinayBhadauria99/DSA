@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AbhinayBhadauria99/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbhinayBhadauria99/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1962-single-threaded-cpu](https://github.com/AbhinayBhadauria99/DSA/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AbhinayBhadauria99/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbhinayBhadauria99/DSA/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/AbhinayBhadauria99/DSA/tree/master/1184-car-pooling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AbhinayBhadauria99/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1962-single-threaded-cpu](https://github.com/AbhinayBhadauria99/DSA/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhinayBhadauria99/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/AbhinayBhadauria99/DSA/tree/master/3430-count-days-without-meetings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/AbhinayBhadauria99/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AbhinayBhadauria99/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1025-divisor-game](https://github.com/AbhinayBhadauria99/DSA/tree/master/1025-divisor-game) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AbhinayBhadauria99/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2001-jump-game-vii](https://github.com/AbhinayBhadauria99/DSA/tree/master/2001-jump-game-vii) |
 | [2262-solving-questions-with-brainpower](https://github.com/AbhinayBhadauria99/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbhinayBhadauria99/DSA/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/AbhinayBhadauria99/DSA/tree/master/0917-boats-to-save-people) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AbhinayBhadauria99/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/AbhinayBhadauria99/DSA/tree/master/1304-longest-happy-string) |
 ## Sliding Window
 |  |
