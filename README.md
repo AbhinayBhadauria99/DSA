@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AbhinayBhadauria99/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/AbhinayBhadauria99/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/AbhinayBhadauria99/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AbhinayBhadauria99/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AbhinayBhadauria99/DSA/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/AbhinayBhadauria99/DSA/tree/master/0257-binary-tree-paths) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinayBhadauria99/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhinayBhadauria99/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinayBhadauria99/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinayBhadauria99/DSA/tree/master/0144-binary-tree-preorder-traversal) |
